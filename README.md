@@ -2,8 +2,6 @@
 
 ## How to push code:
 
-1. Item 1
-1. Item 2
-1. Item 3
-   1. Item 3a
-   1. Item 3b
+1. Git clone https://github.com/denisanzora/WebCrawler.git
+1. After changes, git commit 
+1. Finally, git push
