@@ -5,3 +5,6 @@
 1. Git clone https://github.com/denisanzora/WebCrawler.git
 1. After changes, git commit -a
 1. Finally, git push
+
+## Using Git Bash, helpful commands:
+https://vim.rtorr.com/
