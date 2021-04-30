@@ -1,0 +1,7 @@
+url, date, price
+"www.coinprices.com",4/29/21,54048.09
+"www.coinprices.com",4/30/21,55100.32
+"www.coinprices.com",5/1/21,56150.51
+"www.coinprices.com",5/2/21,57800.66
+"www.coinprices.com",5/3/21,45025.00
+"www.coinprices.com",5/3/21,45024.99
